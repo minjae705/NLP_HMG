@@ -1,3 +1,3 @@
 # NLP_HMG
-Inforamtion Search Project
+Inforamtion Search Project\n
 HMG Sentiment Analysis
