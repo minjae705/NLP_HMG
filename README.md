@@ -1,7 +1,7 @@
 # NLP_HMG
-Inforamtion Search Project
-HMG Sentiment Analysis
-https://github.com/e9t/nsmc
+## Inforamtion Search Project
+### HMG Sentiment Analysis
+(https://github.com/e9t/nsmc)
 https://github.com/deepseasw/bert-naver-movie-review
 https://github.com/snoop2head/yonsei-exchange-program
 https://wikidocs.net/44249
