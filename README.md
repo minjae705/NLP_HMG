@@ -1,6 +1,6 @@
 # NLP_HMG
 2020-2 Inforamtion Search<br>
-HMG Sentiment Analysis<br>
+HMG NLP Sentiment Analysis 홍익대학교 에브리타임 맛집게시판 자연어처리 감정분석<br>
 > https://github.com/e9t/nsmc
 > https://github.com/deepseasw/bert-naver-movie-review
 > https://github.com/snoop2head/yonsei-exchange-program
